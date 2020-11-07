@@ -9,3 +9,5 @@ In Nestkast bevat camera die video's opneemt wanneer er beweging binnen wordt ge
 - Nestkast
 
 ## Meer INFO op Wiki-pagina:
+
+https://github.com/cedric-carels/Nestkast-koolmees/wiki
