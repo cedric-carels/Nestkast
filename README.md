@@ -1,14 +1,14 @@
-# Nestkast
+# NestkastCam
 
-In Nestkast bevat camera die video's opneemt wanneer er beweging binnen wordt gedeteerd, En de video's kunnen bekeken worden op ownCloud-opslagserver.
-
-Zo kan je zien hoe het koolmees zicht evolueren binnen het Nestkast.
+NestkastCam is een nestkast met ingebouwde camera die video opnames maakt van de vogels die het nestkast zullen bezoeken. 
+Als de vogel het nestkast betreedt, zal de bewegingssensor de camera aansturen en krijg je prachtig video materiaal van wat er zich in het nestkast afspeelt.
+De geregistreerde beelden kunnen bekenen worden op de ownCloud-opslagserver.
 
 ## Onderdelen:
 
 - Raspberry Pi 4
-- Camera v2
-- PIR sensor
+- Raspberry Pi Camera V2
+- PIR bewegingssensor
 - Nestkast
 
 ## Meer INFO op Wiki-pagina:
