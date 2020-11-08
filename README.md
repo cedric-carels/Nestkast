@@ -1,4 +1,4 @@
-# Nestkast-koolmees
+# Nestkast
 
 In Nestkast bevat camera die video's opneemt wanneer er beweging binnen wordt gedeteerd, En de video's kunnen bekeken worden op ownCloud-opslagserver.
 
