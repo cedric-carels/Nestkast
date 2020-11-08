@@ -7,9 +7,9 @@ De geregistreerde beelden kunnen bekenen worden op de ownCloud-opslagserver.
 ## Onderdelen:
 
 - Raspberry Pi 4
-- Raspberry Pi Camera V2
-- PIR bewegingssensor
-- Nestkast
+- Raspberry Pi camera V2 (8MP/1080p)
+- PIR bewegingssensor (HC-SR501)
+- Nestkast (zelf te bouwen of aan te kopen)
 
 ## Meer INFO op Wiki-pagina:
 
